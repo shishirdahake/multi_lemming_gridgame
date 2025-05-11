@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Packaging metadata
+*.egg-info/
+dist/
+build/
+
+# Environment and config
+.env
+venv/
+*.env
+
+# OS files
+.DS_Store
