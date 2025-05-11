@@ -1,5 +1,5 @@
 import numpy as np
-from enviornment import Game, MAZE_BANK
+from lemming_game import Game, MAZE_BANK
 
 maze = MAZE_BANK['simple'] # alternately 'bottleneck' and 'open_trap'
 
